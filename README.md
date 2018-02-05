@@ -43,6 +43,7 @@ Python -m http.server
 Python -m SimpleHTTPServer
 ```
 *A local host is created*.
+
 7. Open a new Terminal.
 8. Go the folder's directory.
 9. write 
