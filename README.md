@@ -1,9 +1,23 @@
 ## Website Performance Optimization portfolio project
 
-Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
+### Description
+One of Front End Web Development projects , a given website required to be optimized.
 
-To get started, check out the repository and inspect the code.
+### Changes:
 
+#### idex.html
+1. Delete Google Fonts, I dont see any use of it.
+2. Create a new java script file for the blocked java script code in the html file, and make it inlined.
+3. Move all js file at the end of html file, and make then *sync* .
+4. Delete print.css file, since it takes time for loading and add it to the style tag in the header.
+5. Make style.css as a block in html file instead of inlined.
+6. Optimize all images using ImageOptim.
+
+#### pizza.html
+1. Optimize all images using ImageOptim.
+2. 
+#### main.js
+####
 ### Getting started
 
 #### Part 1: Optimize PageSpeed Insights score for index.html
