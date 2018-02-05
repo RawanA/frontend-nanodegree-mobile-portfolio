@@ -1,4 +1,4 @@
-## Website Performance Optimization portfolio project
+# Website Performance Optimization portfolio project
 
 ### Description
 One of Front End Web Development projects , a given website required to be optimized.
@@ -25,10 +25,6 @@ One of Front End Web Development projects , a given website required to be optim
 https://rawana.github.io/frontend-nanodegree-mobile-portfolio/
 
 ### Installtion
-## Run it locally on your Devices
-1. Click "Download ZIP" and unzip the file.
-2. Open the folder.
-3. Open index.html on your preferred browser.
 
 ## Run it on the internet 
 1. Click "Download ZIP" and unzip the file.
@@ -46,4 +42,11 @@ Python -m http.server
 ```
 Python -m SimpleHTTPServer
 ```
-7.
+*A local host is created*.
+7. Open a new Terminal.
+8. Go the folder's directory.
+9. write 
+```
+./ngrock http localhostnumber
+```
+10. Get the link appeared.
