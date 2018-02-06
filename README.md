@@ -5,7 +5,7 @@ One of Front End Web Development projects , a given website required to be optim
 
 ### Changes:
 
-#### idex.html
+#### index.html
 1. Delete Google Fonts, I dont see any use of it.
 2. Create a new java script file for the blocked java script code in the html file, and make it inlined.
 3. Move all js file at the end of html file, and make then *sync* .
