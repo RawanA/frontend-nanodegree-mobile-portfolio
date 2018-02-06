@@ -15,11 +15,13 @@ One of Front End Web Development projects , a given website required to be optim
 
 #### pizza.html
 1. Optimize all images using ImageOptim.
+2. Add another Image of Pizzaria, one Original and one optimized and small, so the style of pizza.html wont be changed.
 
 #### main.js
 1. Remove some valrable out side the loops, since they' have to be assigned(changed) once.
 2. Assinged repaeted value into one variable, and that variable.
 3. Make less use of *offsetWidth*.
+4. Change the number of the pizza's less than 200, by getting the hieght and devide it on varaible s, to calculat the rows.
 
 ### Demo
 https://rawana.github.io/frontend-nanodegree-mobile-portfolio/
